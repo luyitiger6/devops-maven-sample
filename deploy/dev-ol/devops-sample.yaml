@@ -9,7 +9,7 @@ metadata:
   namespace: tigerdevops
 spec:
   progressDeadlineSeconds: 600
-  replicas: 1
+  replicas: 3
   selector:
     matchLabels:
       app: kubesphere
