@@ -22,8 +22,6 @@ spec:
         component: ks-sample-dev
         tier: backend
     spec:
-      imagePullSecrets:
-        - name: dockerhub-id
       containers:
         - env:
             - name: CACHE_IGNORE
