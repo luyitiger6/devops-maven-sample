@@ -6,7 +6,7 @@ metadata:
     component: ks-sample-dev
     tier: backend
   name: ks-sample-dev
-  namespace: tigerdevopsxx2gv
+  namespace: tigeropsbx589
 spec:
   progressDeadlineSeconds: 600
   replicas: 3
